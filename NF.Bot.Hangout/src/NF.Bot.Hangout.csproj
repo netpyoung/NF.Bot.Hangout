@@ -8,7 +8,7 @@
     <PackageReference Include="Google.Apis.HangoutsChat.v1" Version="1.40.2.1633" />
     <PackageReference Include="Google.Apis.Oauth2.v2" Version="1.40.2.1602" />
     <PackageReference Include="Google.Cloud.PubSub.V1" Version="1.0.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
 </Project>
